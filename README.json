@@ -74,7 +74,7 @@
                 "last_commit": "2026-01-23T04:09:35Z",
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22186
+                "stars": 22187
               }
             },
             {
@@ -88,7 +88,7 @@
                 "last_commit": "2026-03-03T12:43:12Z",
                 "owner": "salesforce",
                 "repo": "BLIP",
-                "stars": 5720
+                "stars": 5718
               }
             },
             {
@@ -102,7 +102,7 @@
                 "last_commit": "2024-03-19T01:51:23Z",
                 "owner": "alibaba",
                 "repo": "AliceMind",
-                "stars": 2043
+                "stars": 2042
               }
             },
             {
@@ -318,7 +318,7 @@
                 "last_commit": "2023-07-01T17:31:18Z",
                 "owner": "layer6ai-labs",
                 "repo": "xpool",
-                "stars": 137
+                "stars": 136
               }
             },
             {
@@ -423,7 +423,7 @@
                 "last_commit": "2023-05-30T19:57:17Z",
                 "owner": "orpatashnik",
                 "repo": "StyleCLIP",
-                "stars": 4120
+                "stars": 4121
               }
             },
             {
@@ -510,7 +510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T16:29:21.374Z",
+    "last_updated": "2026-08-14T16:27:15.020Z",
     "original_repository": "Yutong-Zhou-cv/Awesome-Multimodality",
     "original_repository_sha": "30ad9d354865f44a973412626544946e1916c0da",
     "enhanced_repository": "enhansome/enhansome-Awesome-Multimodality",
