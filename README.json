@@ -74,7 +74,7 @@
                 "last_commit": "2026-01-23T04:09:35Z",
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22187
+                "stars": 22189
               }
             },
             {
@@ -510,7 +510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T16:27:15.020Z",
+    "last_updated": "2026-08-15T15:51:25.680Z",
     "original_repository": "Yutong-Zhou-cv/Awesome-Multimodality",
     "original_repository_sha": "30ad9d354865f44a973412626544946e1916c0da",
     "enhanced_repository": "enhansome/enhansome-Awesome-Multimodality",
