@@ -102,7 +102,7 @@
                 "last_commit": "2024-03-19T01:51:23Z",
                 "owner": "alibaba",
                 "repo": "AliceMind",
-                "stars": 2042
+                "stars": 2041
               }
             },
             {
@@ -409,7 +409,7 @@
                 "last_commit": "2023-05-29T09:07:41Z",
                 "owner": "microsoft",
                 "repo": "NUWA",
-                "stars": 2793
+                "stars": 2791
               }
             },
             {
@@ -510,7 +510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T15:52:21.286Z",
+    "last_updated": "2026-08-18T15:59:59.418Z",
     "original_repository": "Yutong-Zhou-cv/Awesome-Multimodality",
     "original_repository_sha": "30ad9d354865f44a973412626544946e1916c0da",
     "enhanced_repository": "enhansome/enhansome-Awesome-Multimodality",
