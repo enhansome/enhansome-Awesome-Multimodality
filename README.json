@@ -72,7 +72,7 @@
                 "last_commit": "2026-01-23T04:09:35Z",
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22194
+                "stars": 22195
               }
             },
             {
@@ -87,7 +87,7 @@
                 "last_commit": "2026-03-03T12:43:12Z",
                 "owner": "salesforce",
                 "repo": "BLIP",
-                "stars": 5718
+                "stars": 5717
               }
             },
             {
@@ -287,7 +287,7 @@
                 "last_commit": "2022-12-13T12:47:30Z",
                 "owner": "EPFL-VILAB",
                 "repo": "MultiMAE",
-                "stars": 634
+                "stars": 635
               }
             },
             {
@@ -459,7 +459,7 @@
                 "last_commit": "2024-08-08T04:46:33Z",
                 "owner": "yumingj",
                 "repo": "Talk-to-Edit",
-                "stars": 371
+                "stars": 370
               }
             },
             {
@@ -536,7 +536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:52:23.809Z",
+    "last_updated": "2026-08-24T14:27:37.651Z",
     "original_repository": "Yutong-Zhou-cv/Awesome-Multimodality",
     "original_repository_id": 408330439,
     "original_repository_sha": "30ad9d354865f44a973412626544946e1916c0da",

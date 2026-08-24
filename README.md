@@ -4,7 +4,7 @@
 
 <p>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,193 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,518 | 🐛 106 | 📅 2026-08-21
 ![GitHub stars](https://img.shields.io/github/stars/Yutong-Zhou-cv/Awesome-Multimodality.svg?color=red\&style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/Yutong-Zhou-cv/Awesome-Multimodality.svg?color=yellow\&style=for-the-badge)
 ![GitHub activity](https://img.shields.io/github/last-commit/Yutong-Zhou-cv/Awesome-Multimodality?style=for-the-badge)
@@ -84,7 +84,7 @@ A collection of resources on multimodal learning research.
     * Text in the datasets are filtered according to its language, length and frequency. Privacy and sensitive words are also taken into consideration.
 
 * <span id="head-VLP"> **💬 Vision and language Pre-training (VLP)**  </span>
-  * ⭐⭐(arXiv preprint 2022) **Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks**, Wenhui Wang et al. \[[Paper](https://arxiv.org/abs/2208.10442)] \[[Code](https://github.com/microsoft/unilm/tree/master/beit) ⭐ 22,194 | 🐛 684 | 🌐 Python | 📅 2026-01-23]
+  * ⭐⭐(arXiv preprint 2022) **Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks**, Wenhui Wang et al. \[[Paper](https://arxiv.org/abs/2208.10442)] \[[Code](https://github.com/microsoft/unilm/tree/master/beit) ⭐ 22,195 | 🐛 684 | 🌐 Python | 📅 2026-01-23]
 
     [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/image-as-a-foreign-language-beit-pretraining/semantic-segmentation-on-ade20k)](https://paperswithcode.com/sota/semantic-segmentation-on-ade20k?p=image-as-a-foreign-language-beit-pretraining)
     [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/image-as-a-foreign-language-beit-pretraining/semantic-segmentation-on-ade20k-val)](https://paperswithcode.com/sota/semantic-segmentation-on-ade20k-val?p=image-as-a-foreign-language-beit-pretraining)\
@@ -151,7 +151,7 @@ A collection of resources on multimodal learning research.
 * <span id="head-2022"> **2022**  </span>
   * (arXiv preprint 2022) **Versatile Diffusion: Text, Images and Variations All in One Diffusion Model**, Xingqian Xu et al. \[[Paper](https://arxiv.org/abs/2211.08332)] \[[Code](https://github.com/SHI-Labs/Versatile-Diffusion) ⭐ 1,334 | 🐛 10 | 🌐 Python | 📅 2023-08-10] \[[Hugging Face](https://huggingface.co/spaces/shi-labs/Versatile-Diffusion)]
     * 📚 Downstream Tasks: Text-to-Image, Image-Variation, Image-to-Text, Disentanglement, Text+Image-Guided Generation, Editable I2T2I
-  * (arXiv preprint 2022) \[💬Multi-modal Multi-task] **MultiMAE: Multi-modal Multi-task Masked Autoencoders**, Roman Bachmann et al. \[[Paper](https://arxiv.org/abs/2204.01678)] \[[Code](https://github.com/EPFL-VILAB/MultiMAE) ⭐ 634 | 🐛 6 | 🌐 Python | 📅 2022-12-13] \[[Project](https://multimae.epfl.ch/)]
+  * (arXiv preprint 2022) \[💬Multi-modal Multi-task] **MultiMAE: Multi-modal Multi-task Masked Autoencoders**, Roman Bachmann et al. \[[Paper](https://arxiv.org/abs/2204.01678)] \[[Code](https://github.com/EPFL-VILAB/MultiMAE) ⭐ 635 | 🐛 6 | 🌐 Python | 📅 2022-12-13] \[[Project](https://multimae.epfl.ch/)]
   * (arXiv preprint 2022) \[💬Image+Videos+3D Data Recognition] **Omnivore: A Single Model for Many Visual Modalities**, Rohit Girdhar et al. \[[Paper](https://arxiv.org/abs/2201.08377)] \[[Code](https://github.com/facebookresearch/omnivore) ⚠️ Archived] \[[Project](https://facebookresearch.github.io/omnivore/)]
   * (CVPR 2022) \[💬Video Synthesis] **Show Me What and Tell Me How: Video Synthesis via Multimodal Conditioning**, Ligong Han et al. \[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Han_Show_Me_What_and_Tell_Me_How_Video_Synthesis_via_CVPR_2022_paper.pdf)] \[[Code](https://github.com/snap-research/MMVID) ⭐ 191 | 🐛 5 | 🌐 Python | 📅 2022-06-16] \[[Project](https://snap-research.github.io/MMVID/)]
   * (CVPR 2022) \[💬Text-Video Retrieval] **X-Pool: Cross-Modal Language-Video Attention for Text-Video Retrieval**, Satya Krishna Gorti et al. \[[Paper](https://arxiv.org/abs/2203.15086)] \[[Code](https://github.com/layer6ai-labs/xpool) ⭐ 136 | 🐛 9 | 🌐 Python | 📅 2023-07-01] \[[Project](https://layer6ai-labs.github.io/xpool/)]
@@ -176,7 +176,7 @@ A collection of resources on multimodal learning research.
     ![Figure from paper](pic/NUWA.gif)
   > *(From: <https://github.com/microsoft/NUWA> ⚠️ Archived \[2021/11/30])*
   * (ICCV 2021 **Oral**) \[💬Text-guided Image Manipulation] **StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery**, Or Patashnik et al. \[[Paper](https://arxiv.org/abs/2103.17249)] \[[Code](https://github.com/orpatashnik/StyleCLIP) ⭐ 4,121 | 🐛 64 | 🌐 HTML | 📅 2023-05-30] \[[Play](https://replicate.ai/orpatashnik/styleclip)]
-  * (ICCV 2021) \[💬Facial Editing] **Talk-to-Edit: Fine-Grained Facial Editing via Dialog**, Yuming Jiang et al. \[[Paper](https://arxiv.org/abs/2109.04425)] \[[Code](https://github.com/yumingj/Talk-to-Edit) ⭐ 371 | 🐛 2 | 🌐 Python | 📅 2024-08-08] \[[Project](https://www.mmlab-ntu.com/project/talkedit/)] \[[Dataset Project](https://mmlab.ie.cuhk.edu.hk/projects/CelebA/CelebA_Dialog.html)] \[[Dataset(CelebA-Dialog Dataset)](https://drive.google.com/drive/folders/18nejI_hrwNzWyoF6SW8bL27EYnM4STAs)]
+  * (ICCV 2021) \[💬Facial Editing] **Talk-to-Edit: Fine-Grained Facial Editing via Dialog**, Yuming Jiang et al. \[[Paper](https://arxiv.org/abs/2109.04425)] \[[Code](https://github.com/yumingj/Talk-to-Edit) ⭐ 370 | 🐛 2 | 🌐 Python | 📅 2024-08-08] \[[Project](https://www.mmlab-ntu.com/project/talkedit/)] \[[Dataset Project](https://mmlab.ie.cuhk.edu.hk/projects/CelebA/CelebA_Dialog.html)] \[[Dataset(CelebA-Dialog Dataset)](https://drive.google.com/drive/folders/18nejI_hrwNzWyoF6SW8bL27EYnM4STAs)]
   * (arXiv preprint 2021) \[💬Class-agnostic Object Detection] **Multi-modal Transformers Excel at Class-agnostic Object Detection**, Muhammad Maaz et al. \[[Paper](https://arxiv.org/abs/2111.11430v1)] \[[Code](https://github.com/mmaaz60/mvits_for_class_agnostic_od) ⭐ 314 | 🐛 8 | 🌐 Python | 📅 2023-05-09]
   * (ICCV 2021) \[💬Video Recognition] **AdaMML: Adaptive Multi-Modal Learning for Efficient Video Recognition**, Rameswar Panda et al. \[[Paper](https://rpand002.github.io/data/ICCV_2021_adamml.pdf)] \[[Project](https://rpand002.github.io/adamml.html)] \[[Code](https://github.com/IBM/AdaMML) ⚠️ Archived]
   * (ACMMM 2021) \[💬Video-Text Retrieval] **HANet: Hierarchical Alignment Networks for Video-Text Retrieval**, Peng Wu et al. \[[Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475515)] \[[Code](https://github.com/Roc-Ng/HANet) ⭐ 47 | 🐛 1 | 🌐 Python | 📅 2021-08-19]
@@ -199,4 +199,4 @@ A collection of resources on multimodal learning research.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
