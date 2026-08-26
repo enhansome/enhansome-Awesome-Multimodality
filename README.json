@@ -69,10 +69,10 @@
                 "archived": false,
                 "id": 198350484,
                 "language": "Python",
-                "last_commit": "2026-01-23T04:09:35Z",
+                "last_commit": "2026-08-26T08:16:01Z",
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22193
+                "stars": 22194
               }
             },
             {
@@ -459,7 +459,7 @@
                 "last_commit": "2024-08-08T04:46:33Z",
                 "owner": "yumingj",
                 "repo": "Talk-to-Edit",
-                "stars": 370
+                "stars": 371
               }
             },
             {
@@ -536,7 +536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T16:10:32.268Z",
+    "last_updated": "2026-08-26T16:36:48.986Z",
     "original_repository": "Yutong-Zhou-cv/Awesome-Multimodality",
     "original_repository_id": 408330439,
     "original_repository_sha": "30ad9d354865f44a973412626544946e1916c0da",
