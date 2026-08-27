@@ -87,7 +87,7 @@
                 "last_commit": "2026-03-03T12:43:12Z",
                 "owner": "salesforce",
                 "repo": "BLIP",
-                "stars": 5717
+                "stars": 5716
               }
             },
             {
@@ -536,9 +536,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:36:48.986Z",
-    "original_repository": "Yutong-Zhou-cv/Awesome-Multimodality",
-    "original_repository_id": 408330439,
+    "last_updated": "2026-08-27T11:26:30.705Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 408330439,
+      "language": null,
+      "last_commit": "2023-08-22T04:33:03Z",
+      "owner": "Yutong-Zhou-cv",
+      "repo": "Awesome-Multimodality",
+      "stars": 332
+    },
     "original_repository_sha": "30ad9d354865f44a973412626544946e1916c0da",
     "enhanced_repository": "enhansome/enhansome-Awesome-Multimodality",
     "enhanced_repository_description": null,
