@@ -10,12 +10,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of Survey Papers on Deep Learning.",
+            "homepage": null,
             "id": 462697916,
             "language": null,
+            "license": null,
             "last_commit": "2023-09-05T03:44:04Z",
+            "open_issues": 0,
             "owner": "Yutong-Zhou-cv",
             "repo": "Awesome-Survey-Papers",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "awsome-list",
+              "survey"
+            ]
           },
           "first_seen": "2026-08-29T00:05:01.755Z"
         },
@@ -31,12 +39,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WuDaoMM this is a data project",
+                "homepage": null,
                 "id": 470574030,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-04-29T03:54:20Z",
+                "open_issues": 5,
                 "owner": "BAAI-WuDao",
                 "repo": "WuDaoMM",
-                "stars": 75
+                "stars": 75,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
             },
@@ -47,12 +60,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 650505852,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-06-12T11:51:11Z",
+                "open_issues": 4,
                 "owner": "sijeh",
                 "repo": "Sticker820K",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
             }
@@ -70,12 +88,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+                "homepage": "https://aka.ms/GeneralAI",
                 "id": 198350484,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-26T08:16:01Z",
+                "open_issues": 684,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22196
+                "stars": 22196,
+                "topics": [
+                  "beit",
+                  "beit-3",
+                  "bitnet",
+                  "deepnet",
+                  "document-ai",
+                  "foundation-models",
+                  "kosmos",
+                  "kosmos-1",
+                  "layoutlm",
+                  "layoutxlm",
+                  "llm",
+                  "minilm",
+                  "mllm",
+                  "multimodal",
+                  "nlp",
+                  "pre-trained-model",
+                  "textdiffuser",
+                  "trocr",
+                  "unilm",
+                  "xlm-e"
+                ]
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
             },
@@ -86,12 +130,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "PyTorch code for BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation  ",
+                "homepage": null,
                 "id": 451691984,
                 "language": "Jupyter Notebook",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-03-03T12:43:12Z",
+                "open_issues": 135,
                 "owner": "salesforce",
                 "repo": "BLIP",
-                "stars": 5716
+                "stars": 5716,
+                "topics": [
+                  "image-captioning",
+                  "image-text-retrieval",
+                  "vision-and-language-pre-training",
+                  "vision-language",
+                  "vision-language-transformer",
+                  "visual-question-answering",
+                  "visual-reasoning"
+                ]
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
             },
@@ -102,12 +159,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ALIbaba's Collection of Encoder-decoders from MinD (Machine IntelligeNce of Damo) Lab",
+                "homepage": null,
                 "id": 369537808,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-03-19T01:51:23Z",
+                "open_issues": 42,
                 "owner": "alibaba",
                 "repo": "AliceMind",
-                "stars": 2041
+                "stars": 2041,
+                "topics": [
+                  "bert",
+                  "deep-learning",
+                  "natural-language-processing",
+                  "nlp"
+                ]
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
             },
@@ -118,12 +185,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "X-VLM: Multi-Grained Vision Language Pre-Training (ICML 2022)",
+                "homepage": null,
                 "id": 428143717,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2022-11-25T06:28:45Z",
+                "open_issues": 17,
                 "owner": "zengyan-97",
                 "repo": "X-VLM",
-                "stars": 507
+                "stars": 507,
+                "topics": [
+                  "multimodality",
+                  "vision-and-language",
+                  "x-vlm"
+                ]
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
             },
@@ -134,12 +210,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "code for TCL: Vision-Language Pre-Training with Triple Contrastive Learning, CVPR 2022",
+                "homepage": null,
                 "id": 461269337,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-10-02T09:19:25Z",
+                "open_issues": 3,
                 "owner": "uta-smile",
                 "repo": "TCL",
-                "stars": 270
+                "stars": 270,
+                "topics": [
+                  "contrastive-learning",
+                  "pretraining",
+                  "representation-learning",
+                  "vision-and-language"
+                ]
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
             },
@@ -150,12 +236,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Exploiting unlabeled data with vision and language models for object detection, ECCV 2022",
+                "homepage": null,
                 "id": 483400045,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-01-16T22:28:51Z",
+                "open_issues": 12,
                 "owner": "xiaofeng94",
                 "repo": "VL-PLM",
-                "stars": 96
+                "stars": 96,
+                "topics": [
+                  "object-detection",
+                  "unsupervised-learning",
+                  "vision-and-language"
+                ]
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
             },
@@ -166,12 +261,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CVPR 2022 (Oral) Pytorch Code for Unsupervised Vision-and-Language Pre-training via Retrieval-based Multi-Granular Alignment",
+                "homepage": null,
                 "id": 478840335,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-04-15T02:49:33Z",
+                "open_issues": 1,
                 "owner": "zmykevin",
                 "repo": "UVLP",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
             }
@@ -195,12 +295,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "mPLUG-Owl: The Powerful Multi-modal Large Language Model  Family",
+                "homepage": "https://www.modelscope.cn/studios/damo/mPLUG-Owl",
                 "id": 632244130,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-04-02T12:30:45Z",
+                "open_issues": 101,
                 "owner": "X-PLUG",
                 "repo": "mPLUG-Owl",
-                "stars": 2539
+                "stars": 2539,
+                "topics": [
+                  "alpaca",
+                  "chatbot",
+                  "chatgpt",
+                  "damo",
+                  "dialogue",
+                  "gpt",
+                  "gpt4",
+                  "gpt4-api",
+                  "huggingface",
+                  "instruction-tuning",
+                  "large-language-models",
+                  "llama",
+                  "mplug",
+                  "mplug-owl",
+                  "multimodal",
+                  "pretraining",
+                  "pytorch",
+                  "transformer",
+                  "video",
+                  "visual-recognition"
+                ]
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
             },
@@ -211,12 +337,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 575603626,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-09-27T10:04:43Z",
+                "open_issues": 35,
                 "owner": "microsoft",
                 "repo": "i-Code",
-                "stars": 1703
+                "stars": 1703,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
             },
@@ -227,12 +358,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2023] Official implementations of \"Cheap and Quick: Efficient Vision-Language Instruction Tuning for Large Language Models\"",
+                "homepage": null,
                 "id": 640913660,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-01-27T15:00:22Z",
+                "open_issues": 30,
                 "owner": "luogen1996",
                 "repo": "LaVIN",
-                "stars": 523
+                "stars": 523,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
             },
@@ -243,12 +379,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cross-modal few-shot adaptation with CLIP",
+                "homepage": null,
                 "id": 567577373,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-04-29T03:07:55Z",
+                "open_issues": 1,
                 "owner": "linzhiqiu",
                 "repo": "cross_modal_adaptation",
-                "stars": 351
+                "stars": 351,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
             },
@@ -259,12 +400,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official repository for Accountable Textual-Visual Chat Learns to Reject Human Instructions in Image Re-creation.",
+                "homepage": null,
                 "id": 653072427,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2023-06-17T15:02:05Z",
+                "open_issues": 0,
                 "owner": "repo-atvc",
                 "repo": "Accountable-Textual-Visual-Chat",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
             }
@@ -282,12 +428,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Versatile Diffusion: Text, Images and Variations All in One Diffusion Model, arXiv 2022 / ICCV 2023",
+                "homepage": "https://arxiv.org/abs/2211.08332",
                 "id": 561085909,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-08-10T10:17:01Z",
+                "open_issues": 10,
                 "owner": "SHI-Labs",
                 "repo": "Versatile-Diffusion",
-                "stars": 1334
+                "stars": 1334,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
             },
@@ -298,12 +449,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MultiMAE: Multi-modal Multi-task Masked Autoencoders, ECCV 2022",
+                "homepage": "https://multimae.epfl.ch",
                 "id": 472338229,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-12-13T12:47:30Z",
+                "open_issues": 6,
                 "owner": "EPFL-VILAB",
                 "repo": "MultiMAE",
-                "stars": 636
+                "stars": 636,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
             },
@@ -314,12 +470,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Omnivore: A Single Model for Many Visual Modalities",
+                "homepage": null,
                 "id": 449912482,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-11-12T15:16:35Z",
+                "open_issues": 8,
                 "owner": "facebookresearch",
                 "repo": "omnivore",
-                "stars": 573
+                "stars": 573,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
             },
@@ -330,12 +491,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2022] Show Me What and Tell Me How: Video Synthesis via Multimodal Conditioning",
+                "homepage": "https://snap-research.github.io/MMVID/",
                 "id": 466222878,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-06-16T18:12:47Z",
+                "open_issues": 5,
                 "owner": "snap-research",
                 "repo": "MMVID",
-                "stars": 191
+                "stars": 191,
+                "topics": [
+                  "bert",
+                  "deep-learning",
+                  "multimodal-learning",
+                  "multimodal-video-generation",
+                  "text-to-video",
+                  "transformer",
+                  "video-generation"
+                ]
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
             },
@@ -346,12 +520,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "https://layer6ai-labs.github.io/xpool/",
+                "homepage": null,
                 "id": 474045114,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-07-01T17:31:18Z",
+                "open_issues": 9,
                 "owner": "layer6ai-labs",
                 "repo": "xpool",
-                "stars": 136
+                "stars": 136,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
             },
@@ -362,12 +541,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Masked Vision-Language Transformer in Fashion",
+                "homepage": null,
                 "id": 494101598,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-10-16T22:33:40Z",
+                "open_issues": 0,
                 "owner": "GewelsJI",
                 "repo": "MVLT",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
             },
@@ -378,12 +562,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPRW22] Official Implementation of T-Food: \"Transformer Decoders with MultiModal Regularization for Cross-Modal Food Retrieval\". Accepted at CVPR22 's MULA Workshop. ",
+                "homepage": null,
                 "id": 477194770,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2022-07-08T13:51:17Z",
+                "open_issues": 4,
                 "owner": "mshukor",
                 "repo": "TFood",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
             },
@@ -394,12 +583,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the official implementation of the paper \"MM-SHAP: A Performance-agnostic Metric for Measuring Multimodal Contributions in Vision and Language Models & Tasks\"",
+                "homepage": "https://aclanthology.org/2023.acl-long.223/",
                 "id": 578162083,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-14T20:08:33Z",
+                "open_issues": 3,
                 "owner": "Heidelberg-NLP",
                 "repo": "MM-SHAP",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
             },
@@ -410,12 +604,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 524551515,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-12-08T18:50:16Z",
+                "open_issues": 3,
                 "owner": "HenryJunW",
                 "repo": "TAG",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
             },
@@ -426,12 +625,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 401520802,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-05-23T14:00:25Z",
+                "open_issues": 0,
                 "owner": "ChenyuHeidiZhang",
                 "repo": "VL-commonsense",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
             }
@@ -449,12 +653,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A unified 3D Transformer Pipeline for visual synthesis",
+                "homepage": null,
                 "id": 424157023,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-05-29T09:07:41Z",
+                "open_issues": 16,
                 "owner": "microsoft",
                 "repo": "NUWA",
-                "stars": 2791
+                "stars": 2791,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
             },
@@ -465,12 +674,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Implementation for \"StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery\" (ICCV 2021 Oral)",
+                "homepage": null,
                 "id": 338780080,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2023-05-30T19:57:17Z",
+                "open_issues": 64,
                 "owner": "orpatashnik",
                 "repo": "StyleCLIP",
-                "stars": 4121
+                "stars": 4121,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
             },
@@ -481,12 +695,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for Talk-to-Edit (ICCV2021). Paper: Talk-to-Edit: Fine-Grained Facial Editing via Dialog.",
+                "homepage": "https://www.mmlab-ntu.com/project/talkedit/",
                 "id": 394665708,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-08-08T04:46:33Z",
+                "open_issues": 2,
                 "owner": "yumingj",
                 "repo": "Talk-to-Edit",
-                "stars": 371
+                "stars": 371,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
             },
@@ -497,12 +716,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV'22] Official repository of paper titled \"Class-agnostic Object Detection with Multi-modal Transformer\".",
+                "homepage": null,
                 "id": 428588839,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-05-09T04:19:22Z",
+                "open_issues": 8,
                 "owner": "mmaaz60",
                 "repo": "mvits_for_class_agnostic_od",
-                "stars": 314
+                "stars": 314,
+                "topics": [
+                  "class-agnostic-detection",
+                  "multimodal-learning",
+                  "object-detection",
+                  "open-world-detection",
+                  "psuedo-labels",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
             },
@@ -513,12 +744,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Official implementation of AdaMML. https://arxiv.org/abs/2105.05165. ",
+                "homepage": null,
                 "id": 414655179,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-04-14T16:33:14Z",
+                "open_issues": 2,
                 "owner": "IBM",
                 "repo": "AdaMML",
-                "stars": 52
+                "stars": 52,
+                "topics": [
+                  "computer-vision",
+                  "deep-learning",
+                  "efficient-inference",
+                  "multimodal-learning"
+                ]
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
             },
@@ -529,12 +770,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch implementation of HANet: Hierarchical Alignment Networks for Video-Text Retrieval (ACM MM 2021).",
+                "homepage": null,
                 "id": 389536654,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-08-19T06:34:56Z",
+                "open_issues": 1,
                 "owner": "Roc-Ng",
                 "repo": "HANet",
-                "stars": 47
+                "stars": 47,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
             }
@@ -552,12 +798,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Research code for EMNLP 2020 paper \"HERO: Hierarchical Encoder for Video+Language Omni-representation Pre-training\"",
+                "homepage": "https://arxiv.org/abs/2005.00200",
                 "id": 299721314,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-09-16T20:50:12Z",
+                "open_issues": 7,
                 "owner": "linjieli222",
                 "repo": "HERO",
-                "stars": 235
+                "stars": 235,
+                "topics": [
+                  "pretraining",
+                  "pytorch",
+                  "transformers",
+                  "tvr",
+                  "vision-and-language"
+                ]
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
             }
@@ -568,15 +825,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:05:01.755Z",
+    "last_updated": "2026-08-29T04:47:36.403Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A Survey on multimodal learning research.",
+      "homepage": null,
       "id": 408330439,
       "language": null,
+      "license": null,
       "last_commit": "2023-08-22T04:33:03Z",
+      "open_issues": 0,
       "owner": "Yutong-Zhou-cv",
       "repo": "Awesome-Multimodality",
-      "stars": 332
+      "stars": 332,
+      "topics": [
+        "awesome-list",
+        "multimodal-deep-learning",
+        "multimodality"
+      ]
     },
     "original_repository_sha": "30ad9d354865f44a973412626544946e1916c0da",
     "enhanced_repository": "enhansome/enhansome-Awesome-Multimodality",
