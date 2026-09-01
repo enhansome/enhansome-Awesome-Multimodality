@@ -97,7 +97,7 @@
                 "open_issues": 684,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22199,
+                "stars": 22200,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -139,7 +139,7 @@
                 "open_issues": 135,
                 "owner": "salesforce",
                 "repo": "BLIP",
-                "stars": 5715,
+                "stars": 5714,
                 "topics": [
                   "image-captioning",
                   "image-text-retrieval",
@@ -825,7 +825,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T21:02:13.943Z",
+    "last_updated": "2026-09-01T18:46:47.596Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Survey on multimodal learning research.",
