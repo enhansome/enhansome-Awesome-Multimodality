@@ -97,7 +97,7 @@
                 "open_issues": 684,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22203,
+                "stars": 22204,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -725,7 +725,7 @@
                 "open_issues": 8,
                 "owner": "mmaaz60",
                 "repo": "mvits_for_class_agnostic_od",
-                "stars": 314,
+                "stars": 313,
                 "topics": [
                   "class-agnostic-detection",
                   "multimodal-learning",
@@ -825,7 +825,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T18:32:45.439Z",
+    "last_updated": "2026-09-05T17:32:45.262Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Survey on multimodal learning research.",
