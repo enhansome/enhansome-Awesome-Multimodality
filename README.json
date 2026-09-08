@@ -94,7 +94,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-26T08:16:01Z",
-                "open_issues": 684,
+                "open_issues": 685,
                 "owner": "microsoft",
                 "repo": "unilm",
                 "stars": 22205,
@@ -139,7 +139,7 @@
                 "open_issues": 135,
                 "owner": "salesforce",
                 "repo": "BLIP",
-                "stars": 5713,
+                "stars": 5712,
                 "topics": [
                   "image-captioning",
                   "image-text-retrieval",
@@ -194,7 +194,7 @@
                 "open_issues": 17,
                 "owner": "zengyan-97",
                 "repo": "X-VLM",
-                "stars": 507,
+                "stars": 506,
                 "topics": [
                   "multimodality",
                   "vision-and-language",
@@ -409,7 +409,7 @@
                 "open_issues": 0,
                 "owner": "repo-atvc",
                 "repo": "Accountable-Textual-Visual-Chat",
-                "stars": 7,
+                "stars": 6,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
@@ -683,7 +683,7 @@
                 "open_issues": 64,
                 "owner": "orpatashnik",
                 "repo": "StyleCLIP",
-                "stars": 4119,
+                "stars": 4118,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
@@ -825,7 +825,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T19:21:49.127Z",
+    "last_updated": "2026-09-08T18:56:39.578Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Survey on multimodal learning research.",
