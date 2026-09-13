@@ -94,10 +94,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-26T08:16:01Z",
-                "open_issues": 685,
+                "open_issues": 686,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22213,
+                "stars": 22214,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -388,7 +388,7 @@
                 "open_issues": 1,
                 "owner": "linzhiqiu",
                 "repo": "cross_modal_adaptation",
-                "stars": 351,
+                "stars": 350,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
@@ -825,7 +825,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T17:48:23.694Z",
+    "last_updated": "2026-09-13T18:19:12.323Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Survey on multimodal learning research.",

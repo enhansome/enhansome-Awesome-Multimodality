@@ -4,7 +4,7 @@
 
 <p>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,383 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,683 | 🐛 106 | 📅 2026-09-02
 ![GitHub stars](https://img.shields.io/github/stars/Yutong-Zhou-cv/Awesome-Multimodality.svg?color=red\&style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/Yutong-Zhou-cv/Awesome-Multimodality.svg?color=yellow\&style=for-the-badge)
 ![GitHub activity](https://img.shields.io/github/last-commit/Yutong-Zhou-cv/Awesome-Multimodality?style=for-the-badge)
@@ -84,7 +84,7 @@ A collection of resources on multimodal learning research.
     * Text in the datasets are filtered according to its language, length and frequency. Privacy and sensitive words are also taken into consideration.
 
 * <span id="head-VLP"> **💬 Vision and language Pre-training (VLP)**  </span>
-  * ⭐⭐(arXiv preprint 2022) **Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks**, Wenhui Wang et al. \[[Paper](https://arxiv.org/abs/2208.10442)] \[[Code](https://github.com/microsoft/unilm/tree/master/beit) ⭐ 22,213 | 🐛 685 | 🌐 Python | 📅 2026-08-26]
+  * ⭐⭐(arXiv preprint 2022) **Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks**, Wenhui Wang et al. \[[Paper](https://arxiv.org/abs/2208.10442)] \[[Code](https://github.com/microsoft/unilm/tree/master/beit) ⭐ 22,214 | 🐛 686 | 🌐 Python | 📅 2026-08-26]
 
     [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/image-as-a-foreign-language-beit-pretraining/semantic-segmentation-on-ade20k)](https://paperswithcode.com/sota/semantic-segmentation-on-ade20k?p=image-as-a-foreign-language-beit-pretraining)
     [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/image-as-a-foreign-language-beit-pretraining/semantic-segmentation-on-ade20k-val)](https://paperswithcode.com/sota/semantic-segmentation-on-ade20k-val?p=image-as-a-foreign-language-beit-pretraining)\
@@ -145,7 +145,7 @@ A collection of resources on multimodal learning research.
     * 📚\[Multi-Outputs Joint Generation] Text → Video + Audio, Text → Text + Audio + Image, Text + Image → Text + Image
     * 📚\[Multiple Conditioning] Text + Audio → Image, Text + Image → Image, Text + Audio + Image → Image, Text + Audio → Video, Text + Image → Video, Video + Audio → Text, Image + Audio → Audio, Text + Image → Audio
   * (arXiv preprint 2023) **Cheap and Quick: Efficient Vision-Language Instruction Tuning for Large Language Models**, Gen Luo et al. \[[Paper](https://arxiv.org/abs/2305.15023)] \[[Project](https://luogen1996.github.io/lavin/)] \[[Code](https://github.com/luogen1996/LaVIN) ⭐ 523 | 🐛 30 | 🌐 Python | 📅 2024-01-27]
-  * (arXiv preprint 2023) **Multimodality Helps Unimodality: Cross-Modal Few-Shot Learning with Multimodal Models**, Zhiqiu Lin et al. \[[Paper](https://arxiv.org/abs/2301.06267)] \[[Project](https://linzhiqiu.github.io/papers/cross_modal/)] \[[Code](https://github.com/linzhiqiu/cross_modal_adaptation) ⭐ 351 | 🐛 1 | 🌐 Python | 📅 2025-04-29]
+  * (arXiv preprint 2023) **Multimodality Helps Unimodality: Cross-Modal Few-Shot Learning with Multimodal Models**, Zhiqiu Lin et al. \[[Paper](https://arxiv.org/abs/2301.06267)] \[[Project](https://linzhiqiu.github.io/papers/cross_modal/)] \[[Code](https://github.com/linzhiqiu/cross_modal_adaptation) ⭐ 350 | 🐛 1 | 🌐 Python | 📅 2025-04-29]
   * (arXiv preprint 2023) **Accountable Textual-Visual Chat Learns to Reject Human Instructions in Image Re-creation**, Zhiwei Zhang et al. \[[Paper](https://arxiv.org/abs/2303.05983)] \[[Project](https://matrix-alpha.github.io/)] \[[Code](https://github.com/matrix-alpha/Accountable-Textual-Visual-Chat) ⭐ 6 | 🐛 0 | 🌐 Shell | 📅 2023-06-17]
 
 * <span id="head-2022"> **2022**  </span>
@@ -199,4 +199,4 @@ A collection of resources on multimodal learning research.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
