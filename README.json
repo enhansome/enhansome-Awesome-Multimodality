@@ -97,7 +97,7 @@
                 "open_issues": 686,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22214,
+                "stars": 22215,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -343,7 +343,7 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2024-09-27T10:04:43Z",
-                "open_issues": 35,
+                "open_issues": 36,
                 "owner": "microsoft",
                 "repo": "i-Code",
                 "stars": 1704,
@@ -437,7 +437,7 @@
                 "open_issues": 10,
                 "owner": "SHI-Labs",
                 "repo": "Versatile-Diffusion",
-                "stars": 1334,
+                "stars": 1333,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
@@ -458,7 +458,7 @@
                 "open_issues": 6,
                 "owner": "EPFL-VILAB",
                 "repo": "MultiMAE",
-                "stars": 636,
+                "stars": 637,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
@@ -479,7 +479,7 @@
                 "open_issues": 8,
                 "owner": "facebookresearch",
                 "repo": "omnivore",
-                "stars": 571,
+                "stars": 572,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
@@ -825,7 +825,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T18:19:12.323Z",
+    "last_updated": "2026-09-14T19:55:33.387Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Survey on multimodal learning research.",
