@@ -97,7 +97,7 @@
                 "open_issues": 686,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22218,
+                "stars": 22219,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -139,7 +139,7 @@
                 "open_issues": 135,
                 "owner": "salesforce",
                 "repo": "BLIP",
-                "stars": 5710,
+                "stars": 5709,
                 "topics": [
                   "image-captioning",
                   "image-text-retrieval",
@@ -458,7 +458,7 @@
                 "open_issues": 6,
                 "owner": "EPFL-VILAB",
                 "repo": "MultiMAE",
-                "stars": 637,
+                "stars": 638,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
@@ -662,7 +662,7 @@
                 "open_issues": 16,
                 "owner": "microsoft",
                 "repo": "NUWA",
-                "stars": 2791,
+                "stars": 2792,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
@@ -825,7 +825,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T19:10:12.183Z",
+    "last_updated": "2026-09-16T19:02:22.639Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Survey on multimodal learning research.",
