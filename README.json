@@ -409,7 +409,7 @@
                 "open_issues": 0,
                 "owner": "repo-atvc",
                 "repo": "Accountable-Textual-Visual-Chat",
-                "stars": 6,
+                "stars": 7,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
@@ -437,7 +437,7 @@
                 "open_issues": 10,
                 "owner": "SHI-Labs",
                 "repo": "Versatile-Diffusion",
-                "stars": 1333,
+                "stars": 1332,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
@@ -704,7 +704,7 @@
                 "open_issues": 2,
                 "owner": "yumingj",
                 "repo": "Talk-to-Edit",
-                "stars": 371,
+                "stars": 372,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
@@ -825,7 +825,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T18:11:31.363Z",
+    "last_updated": "2026-09-20T18:16:55.885Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Survey on multimodal learning research.",
