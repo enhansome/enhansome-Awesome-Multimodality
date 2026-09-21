@@ -4,7 +4,7 @@
 
 <p>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 508,172 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 508,576 | 🐛 106 | 📅 2026-09-02
 ![GitHub stars](https://img.shields.io/github/stars/Yutong-Zhou-cv/Awesome-Multimodality.svg?color=red\&style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/Yutong-Zhou-cv/Awesome-Multimodality.svg?color=yellow\&style=for-the-badge)
 ![GitHub activity](https://img.shields.io/github/last-commit/Yutong-Zhou-cv/Awesome-Multimodality?style=for-the-badge)
@@ -84,7 +84,7 @@ A collection of resources on multimodal learning research.
     * Text in the datasets are filtered according to its language, length and frequency. Privacy and sensitive words are also taken into consideration.
 
 * <span id="head-VLP"> **💬 Vision and language Pre-training (VLP)**  </span>
-  * ⭐⭐(arXiv preprint 2022) **Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks**, Wenhui Wang et al. \[[Paper](https://arxiv.org/abs/2208.10442)] \[[Code](https://github.com/microsoft/unilm/tree/master/beit) ⭐ 22,220 | 🐛 686 | 🌐 Python | 📅 2026-09-15]
+  * ⭐⭐(arXiv preprint 2022) **Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks**, Wenhui Wang et al. \[[Paper](https://arxiv.org/abs/2208.10442)] \[[Code](https://github.com/microsoft/unilm/tree/master/beit) ⭐ 22,225 | 🐛 687 | 🌐 Python | 📅 2026-09-21]
 
     [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/image-as-a-foreign-language-beit-pretraining/semantic-segmentation-on-ade20k)](https://paperswithcode.com/sota/semantic-segmentation-on-ade20k?p=image-as-a-foreign-language-beit-pretraining)
     [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/image-as-a-foreign-language-beit-pretraining/semantic-segmentation-on-ade20k-val)](https://paperswithcode.com/sota/semantic-segmentation-on-ade20k-val?p=image-as-a-foreign-language-beit-pretraining)\
@@ -149,9 +149,9 @@ A collection of resources on multimodal learning research.
   * (arXiv preprint 2023) **Accountable Textual-Visual Chat Learns to Reject Human Instructions in Image Re-creation**, Zhiwei Zhang et al. \[[Paper](https://arxiv.org/abs/2303.05983)] \[[Project](https://matrix-alpha.github.io/)] \[[Code](https://github.com/matrix-alpha/Accountable-Textual-Visual-Chat) ⭐ 7 | 🐛 0 | 🌐 Shell | 📅 2023-06-17]
 
 * <span id="head-2022"> **2022**  </span>
-  * (arXiv preprint 2022) **Versatile Diffusion: Text, Images and Variations All in One Diffusion Model**, Xingqian Xu et al. \[[Paper](https://arxiv.org/abs/2211.08332)] \[[Code](https://github.com/SHI-Labs/Versatile-Diffusion) ⭐ 1,332 | 🐛 10 | 🌐 Python | 📅 2023-08-10] \[[Hugging Face](https://huggingface.co/spaces/shi-labs/Versatile-Diffusion)]
+  * (arXiv preprint 2022) **Versatile Diffusion: Text, Images and Variations All in One Diffusion Model**, Xingqian Xu et al. \[[Paper](https://arxiv.org/abs/2211.08332)] \[[Code](https://github.com/SHI-Labs/Versatile-Diffusion) ⭐ 1,331 | 🐛 10 | 🌐 Python | 📅 2023-08-10] \[[Hugging Face](https://huggingface.co/spaces/shi-labs/Versatile-Diffusion)]
     * 📚 Downstream Tasks: Text-to-Image, Image-Variation, Image-to-Text, Disentanglement, Text+Image-Guided Generation, Editable I2T2I
-  * (arXiv preprint 2022) \[💬Multi-modal Multi-task] **MultiMAE: Multi-modal Multi-task Masked Autoencoders**, Roman Bachmann et al. \[[Paper](https://arxiv.org/abs/2204.01678)] \[[Code](https://github.com/EPFL-VILAB/MultiMAE) ⭐ 638 | 🐛 6 | 🌐 Python | 📅 2022-12-13] \[[Project](https://multimae.epfl.ch/)]
+  * (arXiv preprint 2022) \[💬Multi-modal Multi-task] **MultiMAE: Multi-modal Multi-task Masked Autoencoders**, Roman Bachmann et al. \[[Paper](https://arxiv.org/abs/2204.01678)] \[[Code](https://github.com/EPFL-VILAB/MultiMAE) ⭐ 639 | 🐛 6 | 🌐 Python | 📅 2022-12-13] \[[Project](https://multimae.epfl.ch/)]
   * (arXiv preprint 2022) \[💬Image+Videos+3D Data Recognition] **Omnivore: A Single Model for Many Visual Modalities**, Rohit Girdhar et al. \[[Paper](https://arxiv.org/abs/2201.08377)] \[[Code](https://github.com/facebookresearch/omnivore) ⚠️ Archived] \[[Project](https://facebookresearch.github.io/omnivore/)]
   * (CVPR 2022) \[💬Video Synthesis] **Show Me What and Tell Me How: Video Synthesis via Multimodal Conditioning**, Ligong Han et al. \[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Han_Show_Me_What_and_Tell_Me_How_Video_Synthesis_via_CVPR_2022_paper.pdf)] \[[Code](https://github.com/snap-research/MMVID) ⭐ 191 | 🐛 5 | 🌐 Python | 📅 2022-06-16] \[[Project](https://snap-research.github.io/MMVID/)]
   * (CVPR 2022) \[💬Text-Video Retrieval] **X-Pool: Cross-Modal Language-Video Attention for Text-Video Retrieval**, Satya Krishna Gorti et al. \[[Paper](https://arxiv.org/abs/2203.15086)] \[[Code](https://github.com/layer6ai-labs/xpool) ⭐ 136 | 🐛 9 | 🌐 Python | 📅 2023-07-01] \[[Project](https://layer6ai-labs.github.io/xpool/)]
@@ -199,4 +199,4 @@ A collection of resources on multimodal learning research.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
