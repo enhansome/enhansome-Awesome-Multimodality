@@ -4,7 +4,7 @@
 
 <p>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 509,881 | 🐛 107 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 510,374 | 🐛 107 | 📅 2026-09-02
 ![GitHub stars](https://img.shields.io/github/stars/Yutong-Zhou-cv/Awesome-Multimodality.svg?color=red\&style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/Yutong-Zhou-cv/Awesome-Multimodality.svg?color=yellow\&style=for-the-badge)
 ![GitHub activity](https://img.shields.io/github/last-commit/Yutong-Zhou-cv/Awesome-Multimodality?style=for-the-badge)
@@ -84,7 +84,7 @@ A collection of resources on multimodal learning research.
     * Text in the datasets are filtered according to its language, length and frequency. Privacy and sensitive words are also taken into consideration.
 
 * <span id="head-VLP"> **💬 Vision and language Pre-training (VLP)**  </span>
-  * ⭐⭐(arXiv preprint 2022) **Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks**, Wenhui Wang et al. \[[Paper](https://arxiv.org/abs/2208.10442)] \[[Code](https://github.com/microsoft/unilm/tree/master/beit) ⭐ 22,226 | 🐛 687 | 🌐 Python | 📅 2026-09-21]
+  * ⭐⭐(arXiv preprint 2022) **Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks**, Wenhui Wang et al. \[[Paper](https://arxiv.org/abs/2208.10442)] \[[Code](https://github.com/microsoft/unilm/tree/master/beit) ⭐ 22,228 | 🐛 687 | 🌐 Python | 📅 2026-09-21]
 
     [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/image-as-a-foreign-language-beit-pretraining/semantic-segmentation-on-ade20k)](https://paperswithcode.com/sota/semantic-segmentation-on-ade20k?p=image-as-a-foreign-language-beit-pretraining)
     [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/image-as-a-foreign-language-beit-pretraining/semantic-segmentation-on-ade20k-val)](https://paperswithcode.com/sota/semantic-segmentation-on-ade20k-val?p=image-as-a-foreign-language-beit-pretraining)\
@@ -157,7 +157,7 @@ A collection of resources on multimodal learning research.
   * (CVPR 2022) \[💬Text-Video Retrieval] **X-Pool: Cross-Modal Language-Video Attention for Text-Video Retrieval**, Satya Krishna Gorti et al. \[[Paper](https://arxiv.org/abs/2203.15086)] \[[Code](https://github.com/layer6ai-labs/xpool) ⭐ 136 | 🐛 9 | 🌐 Python | 📅 2023-07-01] \[[Project](https://layer6ai-labs.github.io/xpool/)]
   * (Machine Intelligence Research) \[💬Vision-language transformer] **Masked Vision-Language Transformer in Fashion**, Ge-Peng Ji et al. \[[Paper](https://arxiv.org/abs/2210.15110)] \[[Code](https://github.com/GewelsJI/MVLT) ⭐ 38 | 🐛 0 | 🌐 Python | 📅 2023-10-16]
   * (CVPR 2022) \[💬Food Retrieval] **Transformer Decoders with MultiModal Regularization for Cross-Modal Food Retrieval**, Mustafa Shukor et al. \[[Paper](https://arxiv.org/abs/2204.09730)] \[[Code](https://github.com/mshukor/TFood) ⭐ 34 | 🐛 4 | 🌐 HTML | 📅 2022-07-08]
-  * (arXiv preprint 2022) **MM-SHAP: A Performance-agnostic Metric for Measuring Multimodal Contributions in Vision and Language Models & Tasks**, Letitia Parcalabescu et al. \[[Paper](https://arxiv.org/abs/2212.08158)] \[[Code](https://github.com/Heidelberg-NLP/MM-SHAP) ⭐ 32 | 🐛 3 | 🌐 Python | 📅 2026-07-14]
+  * (arXiv preprint 2022) **MM-SHAP: A Performance-agnostic Metric for Measuring Multimodal Contributions in Vision and Language Models & Tasks**, Letitia Parcalabescu et al. \[[Paper](https://arxiv.org/abs/2212.08158)] \[[Code](https://github.com/Heidelberg-NLP/MM-SHAP) ⭐ 33 | 🐛 3 | 🌐 Python | 📅 2026-07-14]
   * (arXiv 2022) \[💬Visual Question Answering (VQA)] **TAG: Boosting Text-VQA via Text-aware Visual Question-answer Generation**, Jun Wang et al. \[[Paper](https://arxiv.org/abs/2208.01813)] \[[Code](https://github.com/HenryJunW/TAG) ⭐ 22 | 🐛 3 | 🌐 Python | 📅 2022-12-08]
   * (NAACL 2022 2022) \[💬Visual Commonsense] **Visual Commonsense in Pretrained Unimodal and Multimodal Models**, Chenyu Zhang et al. \[[Paper](https://arxiv.org/abs/2205.01850)] \[[Code](https://github.com/ChenyuHeidiZhang/VL-commonsense) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2022-05-23]
   * (arXiv preprint 2022) \[💬Visual Metaphors] **MetaCLUE: Towards Comprehensive Visual Metaphors Research**, Arjun R. Akula et al. \[[Paper](https://arxiv.org/abs/2212.09898)] \[[Project](https://metaclue.github.io/)]
@@ -199,4 +199,4 @@ A collection of resources on multimodal learning research.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._

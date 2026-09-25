@@ -97,7 +97,7 @@
                 "open_issues": 687,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22226,
+                "stars": 22228,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -592,7 +592,7 @@
                 "open_issues": 3,
                 "owner": "Heidelberg-NLP",
                 "repo": "MM-SHAP",
-                "stars": 32,
+                "stars": 33,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
@@ -825,7 +825,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T19:28:32.244Z",
+    "last_updated": "2026-09-25T19:29:28.100Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Survey on multimodal learning research.",
