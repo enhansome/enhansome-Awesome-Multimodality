@@ -48,7 +48,7 @@
                 "open_issues": 5,
                 "owner": "BAAI-WuDao",
                 "repo": "WuDaoMM",
-                "stars": 75,
+                "stars": 74,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
@@ -97,7 +97,7 @@
                 "open_issues": 687,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22226,
+                "stars": 22225,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -139,7 +139,7 @@
                 "open_issues": 135,
                 "owner": "salesforce",
                 "repo": "BLIP",
-                "stars": 5708,
+                "stars": 5707,
                 "topics": [
                   "image-captioning",
                   "image-text-retrieval",
@@ -704,7 +704,7 @@
                 "open_issues": 2,
                 "owner": "yumingj",
                 "repo": "Talk-to-Edit",
-                "stars": 371,
+                "stars": 372,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
@@ -825,7 +825,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T19:13:52.864Z",
+    "last_updated": "2026-09-28T21:21:20.898Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Survey on multimodal learning research.",
@@ -837,7 +837,7 @@
       "open_issues": 0,
       "owner": "Yutong-Zhou-cv",
       "repo": "Awesome-Multimodality",
-      "stars": 333,
+      "stars": 334,
       "topics": [
         "awesome-list",
         "multimodal-deep-learning",
