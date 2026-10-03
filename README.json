@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Survey",
-          "description": null,
+          "description": "Yutong-Zhou-cv/Awesome-Survey-Papers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -56,7 +56,7 @@
             {
               "node_type": "item",
               "title": "(arXiv preprint 2023) Sticker820K: Empowering Interactive Retrieval with Stickers, Sijie Zhao et al. [Paper",
-              "description": "] [Github]",
+              "description": "sijeh/Sticker820K",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -84,7 +84,7 @@
             {
               "node_type": "item",
               "title": "⭐⭐(arXiv preprint 2022) Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks, Wenhui Wang et al. [Paper",
-              "description": "] [Code]",
+              "description": "microsoft/unilm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -126,7 +126,7 @@
             {
               "node_type": "item",
               "title": "(arXiv preprint 2022) BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation, Junnan Li et al. [Paper",
-              "description": "] [Code]",
+              "description": "salesforce/BLIP",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -155,7 +155,7 @@
             {
               "node_type": "item",
               "title": "(arXiv preprint 2023) mPLUG-2: A Modularized Multi-modal Foundation Model Across Text, Image and Video, Haiyang Xu et al. [Paper",
-              "description": "] [Code]",
+              "description": "alibaba/AliceMind",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -181,7 +181,7 @@
             {
               "node_type": "item",
               "title": "⭐⭐(ICML 2022) Multi-Grained Vision Language Pre-Training: Aligning Texts with Visual Concepts, Yan Zeng et al. [Paper",
-              "description": "] [Code]",
+              "description": "zengyan-97/X-VLM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -206,7 +206,7 @@
             {
               "node_type": "item",
               "title": "(arXiv preprint 2022) Vision-Language Pre-Training with Triple Contrastive Learning, Jinyu Yang et al. [Paper",
-              "description": "] [Code]",
+              "description": "uta-smile/TCL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -232,7 +232,7 @@
             {
               "node_type": "item",
               "title": "(ECCV 2022) Exploiting Unlabeled Data with Vision and Language Models for Object Detection, Shiyu Zhao et al. [Paper",
-              "description": "] [Code]",
+              "description": "xiaofeng94/VL-PLM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -257,7 +257,7 @@
             {
               "node_type": "item",
               "title": "(CVPR 2022) Unsupervised Vision-and-Language Pre-training via Retrieval-based Multi-Granular Alignment, Mingyang Zhou et al. [Paper",
-              "description": "] [Code]",
+              "description": "zmykevin/UVLP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -537,7 +537,7 @@
             {
               "node_type": "item",
               "title": "(Machine Intelligence Research) [💬Vision-language transformer] Masked Vision-Language Transformer in Fashion, Ge-Peng Ji et al. [Paper",
-              "description": "] [Code]",
+              "description": "GewelsJI/MVLT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -558,7 +558,7 @@
             {
               "node_type": "item",
               "title": "(CVPR 2022) [💬Food Retrieval] Transformer Decoders with MultiModal Regularization for Cross-Modal Food Retrieval, Mustafa Shukor et al. [Paper",
-              "description": "] [Code]",
+              "description": "mshukor/TFood",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -579,7 +579,7 @@
             {
               "node_type": "item",
               "title": "(arXiv preprint 2022) MM-SHAP: A Performance-agnostic Metric for Measuring Multimodal Contributions in Vision and Language Models & Tasks, Letitia Parcalabescu et al. [Paper",
-              "description": "] [Code]",
+              "description": "Heidelberg-NLP/MM-SHAP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -600,7 +600,7 @@
             {
               "node_type": "item",
               "title": "(arXiv 2022) [💬Visual Question Answering (VQA)] TAG: Boosting Text-VQA via Text-aware Visual Question-answer Generation, Jun Wang et al. [Paper",
-              "description": "] [Code]",
+              "description": "HenryJunW/TAG",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -621,7 +621,7 @@
             {
               "node_type": "item",
               "title": "(NAACL 2022 2022) [💬Visual Commonsense] Visual Commonsense in Pretrained Unimodal and Multimodal Models, Chenyu Zhang et al. [Paper",
-              "description": "] [Code]",
+              "description": "ChenyuHeidiZhang/VL-commonsense",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -649,7 +649,7 @@
             {
               "node_type": "item",
               "title": "(arXiv preprint 2021) [💬Visual Synthesis] NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion, Chenfei Wu et al. [Paper",
-              "description": "] [Code]",
+              "description": "microsoft/NUWA",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -712,7 +712,7 @@
             {
               "node_type": "item",
               "title": "(arXiv preprint 2021) [💬Class-agnostic Object Detection] Multi-modal Transformers Excel at Class-agnostic Object Detection, Muhammad Maaz et al. [Paper",
-              "description": "] [Code]",
+              "description": "mmaaz60/mvits_for_class_agnostic_od",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -766,7 +766,7 @@
             {
               "node_type": "item",
               "title": "(ACMMM 2021) [💬Video-Text Retrieval] HANet: Hierarchical Alignment Networks for Video-Text Retrieval, Peng Wu et al. [Paper",
-              "description": "] [Code]",
+              "description": "Roc-Ng/HANet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -794,7 +794,7 @@
             {
               "node_type": "item",
               "title": "(EMNLP 2020) [💬Video+Language Pre-training] HERO: Hierarchical Encoder for Video+Language Omni-representation Pre-training, Linjie Li et al. [Paper",
-              "description": "] [Code]",
+              "description": "linjieli222/HERO",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -825,7 +825,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T20:06:39.497Z",
+    "last_updated": "2026-10-03T04:27:43.408Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Survey on multimodal learning research.",
