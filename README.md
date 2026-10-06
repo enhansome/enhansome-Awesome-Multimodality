@@ -4,7 +4,7 @@
 
 <p>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,140 | 🐛 107 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,362 | 🐛 106 | 📅 2026-09-02
 ![GitHub stars](https://img.shields.io/github/stars/Yutong-Zhou-cv/Awesome-Multimodality.svg?color=red\&style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/Yutong-Zhou-cv/Awesome-Multimodality.svg?color=yellow\&style=for-the-badge)
 ![GitHub activity](https://img.shields.io/github/last-commit/Yutong-Zhou-cv/Awesome-Multimodality?style=for-the-badge)
@@ -102,7 +102,7 @@ A collection of resources on multimodal learning research.
     * 📚 【Visual】Object Detection, nstance Segmentation, Semantic Segmentation, Image Classification
   * (arXiv preprint 2022) **BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation**, Junnan Li et al. \[[Paper](https://arxiv.org/abs/2201.12086)] \[[Code](https://github.com/salesforce/BLIP) ⚠️ Archived]
     * 📚 Downstream Tasks: Image-text Retrieval, Image Captioning, Visual Question Answering, Visual Reasoning, Visual Dialog
-  * (arXiv preprint 2023) **mPLUG-2: A Modularized Multi-modal Foundation Model Across Text, Image and Video**, Haiyang Xu et al. \[[Paper](https://arxiv.org/abs/2302.00402)] \[[Code](https://github.com/alibaba/AliceMind/tree/main/mPLUG) ⭐ 2,042 | 🐛 42 | 🌐 Python | 📅 2024-03-19]
+  * (arXiv preprint 2023) **mPLUG-2: A Modularized Multi-modal Foundation Model Across Text, Image and Video**, Haiyang Xu et al. \[[Paper](https://arxiv.org/abs/2302.00402)] \[[Code](https://github.com/alibaba/AliceMind/tree/main/mPLUG) ⭐ 2,041 | 🐛 42 | 🌐 Python | 📅 2024-03-19]
     * 📚 Downstream Tasks:
       * \[Vision Only] Video Action Recognition, Image Classification, Object Detection and Segmentation
       * \[Language Only] Natural Language Understanding, Natural Language Generation
@@ -151,7 +151,7 @@ A collection of resources on multimodal learning research.
 * <span id="head-2022"> **2022**  </span>
   * (arXiv preprint 2022) **Versatile Diffusion: Text, Images and Variations All in One Diffusion Model**, Xingqian Xu et al. \[[Paper](https://arxiv.org/abs/2211.08332)] \[[Code](https://github.com/SHI-Labs/Versatile-Diffusion) ⭐ 1,332 | 🐛 10 | 🌐 Python | 📅 2023-08-10] \[[Hugging Face](https://huggingface.co/spaces/shi-labs/Versatile-Diffusion)]
     * 📚 Downstream Tasks: Text-to-Image, Image-Variation, Image-to-Text, Disentanglement, Text+Image-Guided Generation, Editable I2T2I
-  * (arXiv preprint 2022) \[💬Multi-modal Multi-task] **MultiMAE: Multi-modal Multi-task Masked Autoencoders**, Roman Bachmann et al. \[[Paper](https://arxiv.org/abs/2204.01678)] \[[Code](https://github.com/EPFL-VILAB/MultiMAE) ⭐ 640 | 🐛 6 | 🌐 Python | 📅 2022-12-13] \[[Project](https://multimae.epfl.ch/)]
+  * (arXiv preprint 2022) \[💬Multi-modal Multi-task] **MultiMAE: Multi-modal Multi-task Masked Autoencoders**, Roman Bachmann et al. \[[Paper](https://arxiv.org/abs/2204.01678)] \[[Code](https://github.com/EPFL-VILAB/MultiMAE) ⭐ 639 | 🐛 6 | 🌐 Python | 📅 2022-12-13] \[[Project](https://multimae.epfl.ch/)]
   * (arXiv preprint 2022) \[💬Image+Videos+3D Data Recognition] **Omnivore: A Single Model for Many Visual Modalities**, Rohit Girdhar et al. \[[Paper](https://arxiv.org/abs/2201.08377)] \[[Code](https://github.com/facebookresearch/omnivore) ⚠️ Archived] \[[Project](https://facebookresearch.github.io/omnivore/)]
   * (CVPR 2022) \[💬Video Synthesis] **Show Me What and Tell Me How: Video Synthesis via Multimodal Conditioning**, Ligong Han et al. \[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Han_Show_Me_What_and_Tell_Me_How_Video_Synthesis_via_CVPR_2022_paper.pdf)] \[[Code](https://github.com/snap-research/MMVID) ⭐ 191 | 🐛 5 | 🌐 Python | 📅 2022-06-16] \[[Project](https://snap-research.github.io/MMVID/)]
   * (CVPR 2022) \[💬Text-Video Retrieval] **X-Pool: Cross-Modal Language-Video Attention for Text-Video Retrieval**, Satya Krishna Gorti et al. \[[Paper](https://arxiv.org/abs/2203.15086)] \[[Code](https://github.com/layer6ai-labs/xpool) ⭐ 136 | 🐛 9 | 🌐 Python | 📅 2023-07-01] \[[Project](https://layer6ai-labs.github.io/xpool/)]
@@ -199,4 +199,4 @@ A collection of resources on multimodal learning research.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._

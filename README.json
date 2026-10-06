@@ -139,7 +139,7 @@
                 "open_issues": 135,
                 "owner": "salesforce",
                 "repo": "BLIP",
-                "stars": 5708,
+                "stars": 5707,
                 "topics": [
                   "image-captioning",
                   "image-text-retrieval",
@@ -168,7 +168,7 @@
                 "open_issues": 42,
                 "owner": "alibaba",
                 "repo": "AliceMind",
-                "stars": 2042,
+                "stars": 2041,
                 "topics": [
                   "bert",
                   "deep-learning",
@@ -458,7 +458,7 @@
                 "open_issues": 6,
                 "owner": "EPFL-VILAB",
                 "repo": "MultiMAE",
-                "stars": 640,
+                "stars": 639,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
@@ -825,7 +825,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T22:09:21.343Z",
+    "last_updated": "2026-10-06T10:35:43.293Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Survey on multimodal learning research.",
