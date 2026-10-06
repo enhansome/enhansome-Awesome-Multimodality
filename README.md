@@ -4,7 +4,7 @@
 
 <p>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,362 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,591 | 🐛 106 | 📅 2026-09-02
 ![GitHub stars](https://img.shields.io/github/stars/Yutong-Zhou-cv/Awesome-Multimodality.svg?color=red\&style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/Yutong-Zhou-cv/Awesome-Multimodality.svg?color=yellow\&style=for-the-badge)
 ![GitHub activity](https://img.shields.io/github/last-commit/Yutong-Zhou-cv/Awesome-Multimodality?style=for-the-badge)
@@ -102,7 +102,7 @@ A collection of resources on multimodal learning research.
     * 📚 【Visual】Object Detection, nstance Segmentation, Semantic Segmentation, Image Classification
   * (arXiv preprint 2022) **BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation**, Junnan Li et al. \[[Paper](https://arxiv.org/abs/2201.12086)] \[[Code](https://github.com/salesforce/BLIP) ⚠️ Archived]
     * 📚 Downstream Tasks: Image-text Retrieval, Image Captioning, Visual Question Answering, Visual Reasoning, Visual Dialog
-  * (arXiv preprint 2023) **mPLUG-2: A Modularized Multi-modal Foundation Model Across Text, Image and Video**, Haiyang Xu et al. \[[Paper](https://arxiv.org/abs/2302.00402)] \[[Code](https://github.com/alibaba/AliceMind/tree/main/mPLUG) ⭐ 2,041 | 🐛 42 | 🌐 Python | 📅 2024-03-19]
+  * (arXiv preprint 2023) **mPLUG-2: A Modularized Multi-modal Foundation Model Across Text, Image and Video**, Haiyang Xu et al. \[[Paper](https://arxiv.org/abs/2302.00402)] \[[Code](https://github.com/alibaba/AliceMind/tree/main/mPLUG) ⭐ 2,040 | 🐛 42 | 🌐 Python | 📅 2024-03-19]
     * 📚 Downstream Tasks:
       * \[Vision Only] Video Action Recognition, Image Classification, Object Detection and Segmentation
       * \[Language Only] Natural Language Understanding, Natural Language Generation
