@@ -94,10 +94,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-21T03:27:00Z",
-                "open_issues": 688,
+                "open_issues": 689,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22230,
+                "stars": 22234,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -139,7 +139,7 @@
                 "open_issues": 135,
                 "owner": "salesforce",
                 "repo": "BLIP",
-                "stars": 5705,
+                "stars": 5706,
                 "topics": [
                   "image-captioning",
                   "image-text-retrieval",
@@ -194,7 +194,7 @@
                 "open_issues": 17,
                 "owner": "zengyan-97",
                 "repo": "X-VLM",
-                "stars": 506,
+                "stars": 507,
                 "topics": [
                   "multimodality",
                   "vision-and-language",
@@ -304,7 +304,7 @@
                 "open_issues": 101,
                 "owner": "X-PLUG",
                 "repo": "mPLUG-Owl",
-                "stars": 2539,
+                "stars": 2540,
                 "topics": [
                   "alpaca",
                   "chatbot",
@@ -346,7 +346,7 @@
                 "open_issues": 36,
                 "owner": "microsoft",
                 "repo": "i-Code",
-                "stars": 1699,
+                "stars": 1700,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
@@ -437,7 +437,7 @@
                 "open_issues": 10,
                 "owner": "SHI-Labs",
                 "repo": "Versatile-Diffusion",
-                "stars": 1332,
+                "stars": 1333,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
@@ -458,7 +458,7 @@
                 "open_issues": 6,
                 "owner": "EPFL-VILAB",
                 "repo": "MultiMAE",
-                "stars": 639,
+                "stars": 640,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
@@ -683,7 +683,7 @@
                 "open_issues": 64,
                 "owner": "orpatashnik",
                 "repo": "StyleCLIP",
-                "stars": 4117,
+                "stars": 4116,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
@@ -825,7 +825,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T22:34:13.806Z",
+    "last_updated": "2026-10-13T20:48:03.820Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Survey on multimodal learning research.",
