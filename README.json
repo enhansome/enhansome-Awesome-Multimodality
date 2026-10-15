@@ -97,7 +97,7 @@
                 "open_issues": 689,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22234,
+                "stars": 22237,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -825,7 +825,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T19:39:00.509Z",
+    "last_updated": "2026-10-15T19:21:09.868Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Survey on multimodal learning research.",
@@ -834,7 +834,7 @@
       "language": null,
       "license": null,
       "last_commit": "2023-08-22T04:33:03Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "Yutong-Zhou-cv",
       "repo": "Awesome-Multimodality",
       "stars": 334,
