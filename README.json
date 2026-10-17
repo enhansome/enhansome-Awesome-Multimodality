@@ -683,7 +683,7 @@
                 "open_issues": 64,
                 "owner": "orpatashnik",
                 "repo": "StyleCLIP",
-                "stars": 4115,
+                "stars": 4114,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
@@ -825,7 +825,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T18:58:47.770Z",
+    "last_updated": "2026-10-17T17:55:20.990Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Survey on multimodal learning research.",
