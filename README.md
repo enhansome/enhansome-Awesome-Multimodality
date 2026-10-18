@@ -4,7 +4,7 @@
 
 <p>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 520,372 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 520,877 | 🐛 105 | 📅 2026-09-02
 ![GitHub stars](https://img.shields.io/github/stars/Yutong-Zhou-cv/Awesome-Multimodality.svg?color=red\&style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/Yutong-Zhou-cv/Awesome-Multimodality.svg?color=yellow\&style=for-the-badge)
 ![GitHub activity](https://img.shields.io/github/last-commit/Yutong-Zhou-cv/Awesome-Multimodality?style=for-the-badge)
@@ -102,7 +102,7 @@ A collection of resources on multimodal learning research.
     * 📚 【Visual】Object Detection, nstance Segmentation, Semantic Segmentation, Image Classification
   * (arXiv preprint 2022) **BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation**, Junnan Li et al. \[[Paper](https://arxiv.org/abs/2201.12086)] \[[Code](https://github.com/salesforce/BLIP) ⚠️ Archived]
     * 📚 Downstream Tasks: Image-text Retrieval, Image Captioning, Visual Question Answering, Visual Reasoning, Visual Dialog
-  * (arXiv preprint 2023) **mPLUG-2: A Modularized Multi-modal Foundation Model Across Text, Image and Video**, Haiyang Xu et al. \[[Paper](https://arxiv.org/abs/2302.00402)] \[[Code](https://github.com/alibaba/AliceMind/tree/main/mPLUG) ⭐ 2,038 | 🐛 42 | 🌐 Python | 📅 2024-03-19]
+  * (arXiv preprint 2023) **mPLUG-2: A Modularized Multi-modal Foundation Model Across Text, Image and Video**, Haiyang Xu et al. \[[Paper](https://arxiv.org/abs/2302.00402)] \[[Code](https://github.com/alibaba/AliceMind/tree/main/mPLUG) ⭐ 2,036 | 🐛 42 | 🌐 Python | 📅 2024-03-19]
     * 📚 Downstream Tasks:
       * \[Vision Only] Video Action Recognition, Image Classification, Object Detection and Segmentation
       * \[Language Only] Natural Language Understanding, Natural Language Generation
@@ -139,7 +139,7 @@ A collection of resources on multimodal learning research.
 ## <span id="head3"> *3. Chronological Order* </span>
 
 * <span id="head-2023"> **2023**  </span>
-  * ⭐⭐(arXiv preprint 2023) **mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality**, Qinghao Ye et al. \[[Paper](https://arxiv.org/abs/2304.14178)] \[[Demo](https://www.modelscope.cn/studios/damo/mPLUG-Owl/summary)] \[[Code](https://github.com/X-PLUG/mPLUG-Owl) ⭐ 2,540 | 🐛 101 | 🌐 Python | 📅 2025-04-02]
+  * ⭐⭐(arXiv preprint 2023) **mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality**, Qinghao Ye et al. \[[Paper](https://arxiv.org/abs/2304.14178)] \[[Demo](https://www.modelscope.cn/studios/damo/mPLUG-Owl/summary)] \[[Code](https://github.com/X-PLUG/mPLUG-Owl) ⭐ 2,539 | 🐛 101 | 🌐 Python | 📅 2025-04-02]
   * ⭐⭐(arXiv preprint 2023) **Any-to-Any Generation via Composable Diffusion**, Zineng Tang et al. \[[Paper](https://arxiv.org/abs/2305.11846)] \[[Project](https://codi-gen.github.io/)] \[[Code](https://github.com/microsoft/i-Code/tree/main/i-Code-V3) ⚠️ Archived]
     * 📚\[Single-to-Single Generation] Text → Image, Audio → Image, Image → Video, Image → Audio, Audio → Text, Image → Text
     * 📚\[Multi-Outputs Joint Generation] Text → Video + Audio, Text → Text + Audio + Image, Text + Image → Text + Image
@@ -149,7 +149,7 @@ A collection of resources on multimodal learning research.
   * (arXiv preprint 2023) **Accountable Textual-Visual Chat Learns to Reject Human Instructions in Image Re-creation**, Zhiwei Zhang et al. \[[Paper](https://arxiv.org/abs/2303.05983)] \[[Project](https://matrix-alpha.github.io/)] \[[Code](https://github.com/matrix-alpha/Accountable-Textual-Visual-Chat) ⭐ 7 | 🐛 0 | 🌐 Shell | 📅 2023-06-17]
 
 * <span id="head-2022"> **2022**  </span>
-  * (arXiv preprint 2022) **Versatile Diffusion: Text, Images and Variations All in One Diffusion Model**, Xingqian Xu et al. \[[Paper](https://arxiv.org/abs/2211.08332)] \[[Code](https://github.com/SHI-Labs/Versatile-Diffusion) ⭐ 1,333 | 🐛 10 | 🌐 Python | 📅 2023-08-10] \[[Hugging Face](https://huggingface.co/spaces/shi-labs/Versatile-Diffusion)]
+  * (arXiv preprint 2022) **Versatile Diffusion: Text, Images and Variations All in One Diffusion Model**, Xingqian Xu et al. \[[Paper](https://arxiv.org/abs/2211.08332)] \[[Code](https://github.com/SHI-Labs/Versatile-Diffusion) ⭐ 1,332 | 🐛 10 | 🌐 Python | 📅 2023-08-10] \[[Hugging Face](https://huggingface.co/spaces/shi-labs/Versatile-Diffusion)]
     * 📚 Downstream Tasks: Text-to-Image, Image-Variation, Image-to-Text, Disentanglement, Text+Image-Guided Generation, Editable I2T2I
   * (arXiv preprint 2022) \[💬Multi-modal Multi-task] **MultiMAE: Multi-modal Multi-task Masked Autoencoders**, Roman Bachmann et al. \[[Paper](https://arxiv.org/abs/2204.01678)] \[[Code](https://github.com/EPFL-VILAB/MultiMAE) ⭐ 640 | 🐛 6 | 🌐 Python | 📅 2022-12-13] \[[Project](https://multimae.epfl.ch/)]
   * (arXiv preprint 2022) \[💬Image+Videos+3D Data Recognition] **Omnivore: A Single Model for Many Visual Modalities**, Rohit Girdhar et al. \[[Paper](https://arxiv.org/abs/2201.08377)] \[[Code](https://github.com/facebookresearch/omnivore) ⚠️ Archived] \[[Project](https://facebookresearch.github.io/omnivore/)]
@@ -199,4 +199,4 @@ A collection of resources on multimodal learning research.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
