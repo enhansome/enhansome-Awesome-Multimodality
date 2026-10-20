@@ -97,7 +97,7 @@
                 "open_issues": 689,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22237,
+                "stars": 22238,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -437,7 +437,7 @@
                 "open_issues": 10,
                 "owner": "SHI-Labs",
                 "repo": "Versatile-Diffusion",
-                "stars": 1332,
+                "stars": 1331,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
@@ -557,6 +557,27 @@
             },
             {
               "node_type": "item",
+              "title": "(arXiv preprint 2022) MM-SHAP: A Performance-agnostic Metric for Measuring Multimodal Contributions in Vision and Language Models & Tasks, Letitia Parcalabescu et al. [Paper",
+              "description": "Heidelberg-NLP/MM-SHAP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "This is the official implementation of the paper \"MM-SHAP: A Performance-agnostic Metric for Measuring Multimodal Contributions in Vision and Language Models & Tasks\"",
+                "homepage": "https://aclanthology.org/2023.acl-long.223/",
+                "id": 578162083,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-07-14T20:08:33Z",
+                "open_issues": 3,
+                "owner": "Heidelberg-NLP",
+                "repo": "MM-SHAP",
+                "stars": 34,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T00:05:01.755Z"
+            },
+            {
+              "node_type": "item",
               "title": "(CVPR 2022) [💬Food Retrieval] Transformer Decoders with MultiModal Regularization for Cross-Modal Food Retrieval, Mustafa Shukor et al. [Paper",
               "description": "mshukor/TFood",
               "children": [],
@@ -572,27 +593,6 @@
                 "owner": "mshukor",
                 "repo": "TFood",
                 "stars": 34,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:05:01.755Z"
-            },
-            {
-              "node_type": "item",
-              "title": "(arXiv preprint 2022) MM-SHAP: A Performance-agnostic Metric for Measuring Multimodal Contributions in Vision and Language Models & Tasks, Letitia Parcalabescu et al. [Paper",
-              "description": "Heidelberg-NLP/MM-SHAP",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "This is the official implementation of the paper \"MM-SHAP: A Performance-agnostic Metric for Measuring Multimodal Contributions in Vision and Language Models & Tasks\"",
-                "homepage": "https://aclanthology.org/2023.acl-long.223/",
-                "id": 578162083,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-07-14T20:08:33Z",
-                "open_issues": 3,
-                "owner": "Heidelberg-NLP",
-                "repo": "MM-SHAP",
-                "stars": 33,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
@@ -825,7 +825,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T20:41:10.599Z",
+    "last_updated": "2026-10-20T19:32:59.116Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Survey on multimodal learning research.",
