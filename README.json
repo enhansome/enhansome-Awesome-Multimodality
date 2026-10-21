@@ -139,7 +139,7 @@
                 "open_issues": 135,
                 "owner": "salesforce",
                 "repo": "BLIP",
-                "stars": 5704,
+                "stars": 5705,
                 "topics": [
                   "image-captioning",
                   "image-text-retrieval",
@@ -825,7 +825,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T19:32:59.116Z",
+    "last_updated": "2026-10-21T19:32:15.546Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Survey on multimodal learning research.",
