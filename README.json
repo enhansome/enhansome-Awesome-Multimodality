@@ -94,10 +94,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-21T03:27:00Z",
-                "open_issues": 689,
+                "open_issues": 690,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22234,
+                "stars": 22235,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -139,7 +139,7 @@
                 "open_issues": 135,
                 "owner": "salesforce",
                 "repo": "BLIP",
-                "stars": 5705,
+                "stars": 5706,
                 "topics": [
                   "image-captioning",
                   "image-text-retrieval",
@@ -437,7 +437,7 @@
                 "open_issues": 10,
                 "owner": "SHI-Labs",
                 "repo": "Versatile-Diffusion",
-                "stars": 1331,
+                "stars": 1330,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
@@ -825,7 +825,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T18:19:38.416Z",
+    "last_updated": "2026-10-25T18:31:51.346Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Survey on multimodal learning research.",
