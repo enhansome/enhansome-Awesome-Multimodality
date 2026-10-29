@@ -97,7 +97,7 @@
                 "open_issues": 690,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22235,
+                "stars": 22233,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -304,7 +304,7 @@
                 "open_issues": 101,
                 "owner": "X-PLUG",
                 "repo": "mPLUG-Owl",
-                "stars": 2539,
+                "stars": 2540,
                 "topics": [
                   "alpaca",
                   "chatbot",
@@ -662,7 +662,7 @@
                 "open_issues": 16,
                 "owner": "microsoft",
                 "repo": "NUWA",
-                "stars": 2788,
+                "stars": 2789,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
@@ -825,7 +825,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T20:31:14.979Z",
+    "last_updated": "2026-10-29T20:30:15.835Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Survey on multimodal learning research.",
