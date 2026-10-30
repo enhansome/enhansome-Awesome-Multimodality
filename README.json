@@ -97,7 +97,7 @@
                 "open_issues": 690,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22233,
+                "stars": 22235,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -168,7 +168,7 @@
                 "open_issues": 42,
                 "owner": "alibaba",
                 "repo": "AliceMind",
-                "stars": 2036,
+                "stars": 2037,
                 "topics": [
                   "bert",
                   "deep-learning",
@@ -683,7 +683,7 @@
                 "open_issues": 64,
                 "owner": "orpatashnik",
                 "repo": "StyleCLIP",
-                "stars": 4114,
+                "stars": 4115,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
@@ -825,7 +825,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T20:30:15.835Z",
+    "last_updated": "2026-10-30T20:04:35.202Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Survey on multimodal learning research.",
