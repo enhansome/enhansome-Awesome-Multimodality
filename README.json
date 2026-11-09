@@ -662,7 +662,7 @@
                 "open_issues": 16,
                 "owner": "microsoft",
                 "repo": "NUWA",
-                "stars": 2788,
+                "stars": 2789,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
@@ -825,7 +825,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T19:55:02.062Z",
+    "last_updated": "2026-11-09T23:50:27.163Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Survey on multimodal learning research.",
