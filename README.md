@@ -4,7 +4,7 @@
 
 <p>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 534,253 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 534,813 | 🐛 103 | 📅 2026-09-02
 ![GitHub stars](https://img.shields.io/github/stars/Yutong-Zhou-cv/Awesome-Multimodality.svg?color=red\&style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/Yutong-Zhou-cv/Awesome-Multimodality.svg?color=yellow\&style=for-the-badge)
 ![GitHub activity](https://img.shields.io/github/last-commit/Yutong-Zhou-cv/Awesome-Multimodality?style=for-the-badge)
@@ -139,7 +139,7 @@ A collection of resources on multimodal learning research.
 ## <span id="head3"> *3. Chronological Order* </span>
 
 * <span id="head-2023"> **2023**  </span>
-  * ⭐⭐(arXiv preprint 2023) **mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality**, Qinghao Ye et al. \[[Paper](https://arxiv.org/abs/2304.14178)] \[[Demo](https://www.modelscope.cn/studios/damo/mPLUG-Owl/summary)] \[[Code](https://github.com/X-PLUG/mPLUG-Owl) ⭐ 2,540 | 🐛 101 | 🌐 Python | 📅 2025-04-02]
+  * ⭐⭐(arXiv preprint 2023) **mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality**, Qinghao Ye et al. \[[Paper](https://arxiv.org/abs/2304.14178)] \[[Demo](https://www.modelscope.cn/studios/damo/mPLUG-Owl/summary)] \[[Code](https://github.com/X-PLUG/mPLUG-Owl) ⭐ 2,539 | 🐛 101 | 🌐 Python | 📅 2025-04-02]
   * ⭐⭐(arXiv preprint 2023) **Any-to-Any Generation via Composable Diffusion**, Zineng Tang et al. \[[Paper](https://arxiv.org/abs/2305.11846)] \[[Project](https://codi-gen.github.io/)] \[[Code](https://github.com/microsoft/i-Code/tree/main/i-Code-V3) ⚠️ Archived]
     * 📚\[Single-to-Single Generation] Text → Image, Audio → Image, Image → Video, Image → Audio, Audio → Text, Image → Text
     * 📚\[Multi-Outputs Joint Generation] Text → Video + Audio, Text → Text + Audio + Image, Text + Image → Text + Image
@@ -199,4 +199,4 @@ A collection of resources on multimodal learning research.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._

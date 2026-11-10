@@ -304,7 +304,7 @@
                 "open_issues": 101,
                 "owner": "X-PLUG",
                 "repo": "mPLUG-Owl",
-                "stars": 2540,
+                "stars": 2539,
                 "topics": [
                   "alpaca",
                   "chatbot",
@@ -825,7 +825,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T23:50:27.163Z",
+    "last_updated": "2026-11-10T21:24:05.933Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Survey on multimodal learning research.",
