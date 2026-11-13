@@ -139,7 +139,7 @@
                 "open_issues": 135,
                 "owner": "salesforce",
                 "repo": "BLIP",
-                "stars": 5702,
+                "stars": 5701,
                 "topics": [
                   "image-captioning",
                   "image-text-retrieval",
@@ -194,7 +194,7 @@
                 "open_issues": 17,
                 "owner": "zengyan-97",
                 "repo": "X-VLM",
-                "stars": 507,
+                "stars": 511,
                 "topics": [
                   "multimodality",
                   "vision-and-language",
@@ -825,7 +825,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T21:54:09.025Z",
+    "last_updated": "2026-11-13T21:33:55.230Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Survey on multimodal learning research.",
