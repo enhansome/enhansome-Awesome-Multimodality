@@ -94,7 +94,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-21T03:27:00Z",
-                "open_issues": 691,
+                "open_issues": 692,
                 "owner": "microsoft",
                 "repo": "unilm",
                 "stars": 22242,
@@ -304,7 +304,7 @@
                 "open_issues": 101,
                 "owner": "X-PLUG",
                 "repo": "mPLUG-Owl",
-                "stars": 2538,
+                "stars": 2539,
                 "topics": [
                   "alpaca",
                   "chatbot",
@@ -825,7 +825,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T20:03:04.112Z",
+    "last_updated": "2026-11-15T20:30:46.110Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Survey on multimodal learning research.",
