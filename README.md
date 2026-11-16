@@ -4,7 +4,7 @@
 
 <p>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 537,419 | 🐛 104 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 537,993 | 🐛 104 | 📅 2026-09-02
 ![GitHub stars](https://img.shields.io/github/stars/Yutong-Zhou-cv/Awesome-Multimodality.svg?color=red\&style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/Yutong-Zhou-cv/Awesome-Multimodality.svg?color=yellow\&style=for-the-badge)
 ![GitHub activity](https://img.shields.io/github/last-commit/Yutong-Zhou-cv/Awesome-Multimodality?style=for-the-badge)
@@ -108,7 +108,7 @@ A collection of resources on multimodal learning research.
       * \[Language Only] Natural Language Understanding, Natural Language Generation
       * \[Video-Text] Text-to-Video Retrieval, Video Question Answering, Video Captioning
       * \[Image-Text] Image-Text Retrieval, Visual Question Answering, Image Captioning, Visual Grounding
-  * ⭐⭐(ICML 2022) **Multi-Grained Vision Language Pre-Training: Aligning Texts with Visual Concepts**, Yan Zeng et al. \[[Paper](https://arxiv.org/abs/2111.08276)] \[[Code](https://github.com/zengyan-97/X-VLM) ⭐ 511 | 🐛 17 | 🌐 Python | 📅 2022-11-25]
+  * ⭐⭐(ICML 2022) **Multi-Grained Vision Language Pre-Training: Aligning Texts with Visual Concepts**, Yan Zeng et al. \[[Paper](https://arxiv.org/abs/2111.08276)] \[[Code](https://github.com/zengyan-97/X-VLM) ⭐ 512 | 🐛 17 | 🌐 Python | 📅 2022-11-25]
     * 🚀 SOTA(2022/06/16): Cross-Modal Retrieval on COCO 2014 & Flickr30k, Visual Grounding on RefCOCO+ val & RefCOCO+ testA, RefCOCO+ testB
     * 📚 Downstream Tasks: Image-Text Retrieval, Visual Question Answering (VQA), Natural Language for Visual Reasoning (NLVR2), Visual Grounding, Image Captioning
   * (arXiv preprint 2022) **Vision-Language Pre-Training with Triple Contrastive Learning**, Jinyu Yang et al. \[[Paper](https://arxiv.org/abs/2202.10401)] \[[Code](https://github.com/uta-smile/TCL) ⭐ 270 | 🐛 3 | 🌐 Python | 📅 2024-10-02]
@@ -176,7 +176,7 @@ A collection of resources on multimodal learning research.
     ![Figure from paper](pic/NUWA.gif)
   > *(From: <https://github.com/microsoft/NUWA> ⚠️ Archived \[2021/11/30])*
   * (ICCV 2021 **Oral**) \[💬Text-guided Image Manipulation] **StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery**, Or Patashnik et al. \[[Paper](https://arxiv.org/abs/2103.17249)] \[[Code](https://github.com/orpatashnik/StyleCLIP) ⭐ 4,117 | 🐛 64 | 🌐 HTML | 📅 2023-05-30] \[[Play](https://replicate.ai/orpatashnik/styleclip)]
-  * (ICCV 2021) \[💬Facial Editing] **Talk-to-Edit: Fine-Grained Facial Editing via Dialog**, Yuming Jiang et al. \[[Paper](https://arxiv.org/abs/2109.04425)] \[[Code](https://github.com/yumingj/Talk-to-Edit) ⭐ 371 | 🐛 2 | 🌐 Python | 📅 2024-08-08] \[[Project](https://www.mmlab-ntu.com/project/talkedit/)] \[[Dataset Project](https://mmlab.ie.cuhk.edu.hk/projects/CelebA/CelebA_Dialog.html)] \[[Dataset(CelebA-Dialog Dataset)](https://drive.google.com/drive/folders/18nejI_hrwNzWyoF6SW8bL27EYnM4STAs)]
+  * (ICCV 2021) \[💬Facial Editing] **Talk-to-Edit: Fine-Grained Facial Editing via Dialog**, Yuming Jiang et al. \[[Paper](https://arxiv.org/abs/2109.04425)] \[[Code](https://github.com/yumingj/Talk-to-Edit) ⭐ 372 | 🐛 2 | 🌐 Python | 📅 2024-08-08] \[[Project](https://www.mmlab-ntu.com/project/talkedit/)] \[[Dataset Project](https://mmlab.ie.cuhk.edu.hk/projects/CelebA/CelebA_Dialog.html)] \[[Dataset(CelebA-Dialog Dataset)](https://drive.google.com/drive/folders/18nejI_hrwNzWyoF6SW8bL27EYnM4STAs)]
   * (arXiv preprint 2021) \[💬Class-agnostic Object Detection] **Multi-modal Transformers Excel at Class-agnostic Object Detection**, Muhammad Maaz et al. \[[Paper](https://arxiv.org/abs/2111.11430v1)] \[[Code](https://github.com/mmaaz60/mvits_for_class_agnostic_od) ⭐ 312 | 🐛 8 | 🌐 Python | 📅 2023-05-09]
   * (ICCV 2021) \[💬Video Recognition] **AdaMML: Adaptive Multi-Modal Learning for Efficient Video Recognition**, Rameswar Panda et al. \[[Paper](https://rpand002.github.io/data/ICCV_2021_adamml.pdf)] \[[Project](https://rpand002.github.io/adamml.html)] \[[Code](https://github.com/IBM/AdaMML) ⚠️ Archived]
   * (ACMMM 2021) \[💬Video-Text Retrieval] **HANet: Hierarchical Alignment Networks for Video-Text Retrieval**, Peng Wu et al. \[[Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475515)] \[[Code](https://github.com/Roc-Ng/HANet) ⭐ 47 | 🐛 1 | 🌐 Python | 📅 2021-08-19]
@@ -199,4 +199,4 @@ A collection of resources on multimodal learning research.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
