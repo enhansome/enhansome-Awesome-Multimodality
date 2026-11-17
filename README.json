@@ -97,7 +97,7 @@
                 "open_issues": 692,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22242,
+                "stars": 22243,
                 "topics": [
                   "beit",
                   "beit-3",
@@ -139,7 +139,7 @@
                 "open_issues": 135,
                 "owner": "salesforce",
                 "repo": "BLIP",
-                "stars": 5701,
+                "stars": 5700,
                 "topics": [
                   "image-captioning",
                   "image-text-retrieval",
@@ -194,7 +194,7 @@
                 "open_issues": 17,
                 "owner": "zengyan-97",
                 "repo": "X-VLM",
-                "stars": 512,
+                "stars": 518,
                 "topics": [
                   "multimodality",
                   "vision-and-language",
@@ -529,7 +529,7 @@
                 "open_issues": 9,
                 "owner": "layer6ai-labs",
                 "repo": "xpool",
-                "stars": 136,
+                "stars": 135,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
@@ -825,7 +825,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T23:49:13.787Z",
+    "last_updated": "2026-11-17T23:06:08.978Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Survey on multimodal learning research.",
