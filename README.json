@@ -139,7 +139,7 @@
                 "open_issues": 135,
                 "owner": "salesforce",
                 "repo": "BLIP",
-                "stars": 5700,
+                "stars": 5699,
                 "topics": [
                   "image-captioning",
                   "image-text-retrieval",
@@ -168,7 +168,7 @@
                 "open_issues": 42,
                 "owner": "alibaba",
                 "repo": "AliceMind",
-                "stars": 2037,
+                "stars": 2036,
                 "topics": [
                   "bert",
                   "deep-learning",
@@ -437,7 +437,7 @@
                 "open_issues": 10,
                 "owner": "SHI-Labs",
                 "repo": "Versatile-Diffusion",
-                "stars": 1330,
+                "stars": 1329,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
@@ -662,7 +662,7 @@
                 "open_issues": 16,
                 "owner": "microsoft",
                 "repo": "NUWA",
-                "stars": 2789,
+                "stars": 2788,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
@@ -683,7 +683,7 @@
                 "open_issues": 64,
                 "owner": "orpatashnik",
                 "repo": "StyleCLIP",
-                "stars": 4117,
+                "stars": 4116,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
@@ -704,7 +704,7 @@
                 "open_issues": 2,
                 "owner": "yumingj",
                 "repo": "Talk-to-Edit",
-                "stars": 372,
+                "stars": 371,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:01.755Z"
@@ -825,7 +825,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T22:40:49.984Z",
+    "last_updated": "2026-11-19T22:44:38.425Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Survey on multimodal learning research.",
