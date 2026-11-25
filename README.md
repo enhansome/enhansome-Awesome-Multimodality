@@ -4,7 +4,7 @@
 
 <p>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 541,724 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 542,328 | 🐛 103 | 📅 2026-09-02
 ![GitHub stars](https://img.shields.io/github/stars/Yutong-Zhou-cv/Awesome-Multimodality.svg?color=red\&style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/Yutong-Zhou-cv/Awesome-Multimodality.svg?color=yellow\&style=for-the-badge)
 ![GitHub activity](https://img.shields.io/github/last-commit/Yutong-Zhou-cv/Awesome-Multimodality?style=for-the-badge)
@@ -84,7 +84,7 @@ A collection of resources on multimodal learning research.
     * Text in the datasets are filtered according to its language, length and frequency. Privacy and sensitive words are also taken into consideration.
 
 * <span id="head-VLP"> **💬 Vision and language Pre-training (VLP)**  </span>
-  * ⭐⭐(arXiv preprint 2022) **Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks**, Wenhui Wang et al. \[[Paper](https://arxiv.org/abs/2208.10442)] \[[Code](https://github.com/microsoft/unilm/tree/master/beit) ⭐ 22,250 | 🐛 692 | 🌐 Python | 📅 2026-09-21]
+  * ⭐⭐(arXiv preprint 2022) **Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks**, Wenhui Wang et al. \[[Paper](https://arxiv.org/abs/2208.10442)] \[[Code](https://github.com/microsoft/unilm/tree/master/beit) ⭐ 22,251 | 🐛 692 | 🌐 Python | 📅 2026-09-21]
 
     [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/image-as-a-foreign-language-beit-pretraining/semantic-segmentation-on-ade20k)](https://paperswithcode.com/sota/semantic-segmentation-on-ade20k?p=image-as-a-foreign-language-beit-pretraining)
     [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/image-as-a-foreign-language-beit-pretraining/semantic-segmentation-on-ade20k-val)](https://paperswithcode.com/sota/semantic-segmentation-on-ade20k-val?p=image-as-a-foreign-language-beit-pretraining)\
@@ -108,7 +108,7 @@ A collection of resources on multimodal learning research.
       * \[Language Only] Natural Language Understanding, Natural Language Generation
       * \[Video-Text] Text-to-Video Retrieval, Video Question Answering, Video Captioning
       * \[Image-Text] Image-Text Retrieval, Visual Question Answering, Image Captioning, Visual Grounding
-  * ⭐⭐(ICML 2022) **Multi-Grained Vision Language Pre-Training: Aligning Texts with Visual Concepts**, Yan Zeng et al. \[[Paper](https://arxiv.org/abs/2111.08276)] \[[Code](https://github.com/zengyan-97/X-VLM) ⭐ 519 | 🐛 17 | 🌐 Python | 📅 2022-11-25]
+  * ⭐⭐(ICML 2022) **Multi-Grained Vision Language Pre-Training: Aligning Texts with Visual Concepts**, Yan Zeng et al. \[[Paper](https://arxiv.org/abs/2111.08276)] \[[Code](https://github.com/zengyan-97/X-VLM) ⭐ 520 | 🐛 17 | 🌐 Python | 📅 2022-11-25]
     * 🚀 SOTA(2022/06/16): Cross-Modal Retrieval on COCO 2014 & Flickr30k, Visual Grounding on RefCOCO+ val & RefCOCO+ testA, RefCOCO+ testB
     * 📚 Downstream Tasks: Image-Text Retrieval, Visual Question Answering (VQA), Natural Language for Visual Reasoning (NLVR2), Visual Grounding, Image Captioning
   * (arXiv preprint 2022) **Vision-Language Pre-Training with Triple Contrastive Learning**, Jinyu Yang et al. \[[Paper](https://arxiv.org/abs/2202.10401)] \[[Code](https://github.com/uta-smile/TCL) ⭐ 270 | 🐛 3 | 🌐 Python | 📅 2024-10-02]
@@ -199,4 +199,4 @@ A collection of resources on multimodal learning research.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
